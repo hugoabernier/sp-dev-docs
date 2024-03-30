@@ -42,10 +42,7 @@ You can check if you already have Node.js already installed, including installed
 node --version
 ```
 
-The SharePoint Framework v1.18.* is supported on the following Node.js versions:
-
-- Node.js v18 LTS (*aka: Hydrogen*)
-- Node.js v16 LTS (*aka: Gallium*)
+The SharePoint Framework v1.19.* is supported on Node.js v18 LTS (*aka: Hydrogen*).
 
 > [!CAUTION]
 > If you're building SharePoint Framework components for SharePoint on-prem deployments, refer to the additional pages listed in the [See also](#see-also) section for more information.
